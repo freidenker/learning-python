@@ -1,0 +1,31 @@
+{
+	"suite": "itsma",
+	"acronym": "ITSMA",
+	"description": "<<SUITE_DESC>>",
+	"welcome_msg": "<<WELCOME_MSG>>",
+	"initial_edition_selected": "EXPRESS",
+	"allow_custom_selection": true,
+	"version": "2017.07",
+	"images": [
+        {"image": "itom-itsma-xservices-chat-ui:1.0.0-master-1142-SNAPSHOT"},
+        {"image": "itom-itsma-xservices-gateway:1.0.0-master-1142-SNAPSHOT"},
+        {"image": "itom-itsma-xservices-infra-tomcat:1.0.0-master-1142-SNAPSHOT"},
+        {"image": "itom-itsma-xservices-initprodtenant:1.0.0-master-1142-SNAPSHOT"},
+        {"image": "itom-itsma-xservices-lcm:1.0.0-master-1142-SNAPSHOT"},
+        {"image": "itom-itsma-xservices-lookup:1.0.0-master-1142-SNAPSHOT"},
+        {"image": "itom-itsma-xservices-mobile-gateway:1.0.0-master-1142-SNAPSHOT"},
+        {"image": "itom-itsma-xservices-platform:1.0.0-master-1142-SNAPSHOT"},
+        {"image": "itom-itsma-xservices-serviceportal:1.0.0-master-1142-SNAPSHOT"},
+        {"image": "itom-itsma-xservices-ui:1.0.0-master-1142-SNAPSHOT"},
+        {"image": "itom-xservices-infra-deploy-controller:X-1.0.0-master-1142-SNAPSHOT"},
+        {"image": "itom-xservices-deploy-controller:X-1.0.0-master-1142-SNAPSHOT"},
+        {"image": "itom-itsma-xservices-infra-init:1.0.0-master-1142-SNAPSHOT"},
+        {"image": "itom-itsma-xservices-platform-nginx:1.0.0-master-1142-SNAPSHOT"},
+        {"image": "itom-itsma-xservices-infra-jdk:1.0.8"},
+        {"image": "itom-itsma-xservices-infra-postgres:1.0.8"},
+        {"image": "itom-itsma-xservices-infra-rabbitmq:1.0.8"},
+        {"image": "itom-itsma-xservices-infra-redis:1.0.8"},
+        {"image": "itom-itsma-xservices-infra-xmpp:1.0.8"}
+	]
+}
+
